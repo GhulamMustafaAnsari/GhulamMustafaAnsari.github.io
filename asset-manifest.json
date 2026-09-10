@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6cda4d98.css",
-    "main.js": "/static/js/main.f78cb5b0.js",
+    "main.js": "/static/js/main.6a1e4211.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/scholarshiphive-2.jpg": "/static/media/scholarshiphive-2.96503f8b6a31cffa3ab6.jpg",
@@ -12,17 +12,16 @@
     "static/media/mess-3.jpg": "/static/media/mess-3.9bf069d234aab8ca7eb2.jpg",
     "static/media/mess-2.jpg": "/static/media/mess-2.acb7492bc49d9c753cc7.jpg",
     "static/media/mess-4.jpg": "/static/media/mess-4.9f2e4dcec8139fa8c07c.jpg",
-    "static/media/books-1.jpg": "/static/media/books-1.0cdba8895456d133d483.jpg",
     "static/media/scholarshiphive-4.jpg": "/static/media/scholarshiphive-4.bc3ead37d66bff3a284e.jpg",
     "static/media/profile-img.jpg": "/static/media/profile-img.e95a09c63c5c8ca67ab6.jpg",
     "static/media/branding-1.jpg": "/static/media/branding-1.998d6e9893f2fbaedd76.jpg",
     "index.html": "/index.html",
     "main.6cda4d98.css.map": "/static/css/main.6cda4d98.css.map",
-    "main.f78cb5b0.js.map": "/static/js/main.f78cb5b0.js.map",
+    "main.6a1e4211.js.map": "/static/js/main.6a1e4211.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cda4d98.css",
-    "static/js/main.f78cb5b0.js"
+    "static/js/main.6a1e4211.js"
   ]
 }
