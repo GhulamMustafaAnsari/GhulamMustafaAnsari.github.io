@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.6cda4d98.css",
-    "main.js": "/static/js/main.6a1e4211.js",
+    "main.js": "/static/js/main.28c1dfd4.js",
     "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
     "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.39795c0b4513de014cf8.woff",
     "static/media/scholarshiphive-2.jpg": "/static/media/scholarshiphive-2.96503f8b6a31cffa3ab6.jpg",
@@ -12,16 +12,19 @@
     "static/media/mess-3.jpg": "/static/media/mess-3.9bf069d234aab8ca7eb2.jpg",
     "static/media/mess-2.jpg": "/static/media/mess-2.acb7492bc49d9c753cc7.jpg",
     "static/media/mess-4.jpg": "/static/media/mess-4.9f2e4dcec8139fa8c07c.jpg",
+    "static/media/deen-1.jpg": "/static/media/deen-1.bf6222754847704ef83f.jpg",
     "static/media/scholarshiphive-4.jpg": "/static/media/scholarshiphive-4.bc3ead37d66bff3a284e.jpg",
+    "static/media/deen-4.jpg": "/static/media/deen-4.6b0b887d40bb66d763f0.jpg",
+    "static/media/deen-3.jpg": "/static/media/deen-3.3a5a28e07507ca20bfb5.jpg",
     "static/media/profile-img.jpg": "/static/media/profile-img.e95a09c63c5c8ca67ab6.jpg",
-    "static/media/branding-1.jpg": "/static/media/branding-1.998d6e9893f2fbaedd76.jpg",
+    "static/media/deen-2.jpg": "/static/media/deen-2.4d1533c3fd7d7fc77b93.jpg",
     "index.html": "/index.html",
     "main.6cda4d98.css.map": "/static/css/main.6cda4d98.css.map",
-    "main.6a1e4211.js.map": "/static/js/main.6a1e4211.js.map",
+    "main.28c1dfd4.js.map": "/static/js/main.28c1dfd4.js.map",
     "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6cda4d98.css",
-    "static/js/main.6a1e4211.js"
+    "static/js/main.28c1dfd4.js"
   ]
 }
